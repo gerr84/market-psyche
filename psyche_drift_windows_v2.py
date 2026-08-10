@@ -29,7 +29,8 @@ import os
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-OUT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO = os.path.dirname(os.path.abspath(__file__))
+OUT_DIR = os.path.join(REPO, "research")
 TODAY = "2026-08-09"
 
 # (date, label, verified)  -- verified=True means cross-checked >=2 sources
