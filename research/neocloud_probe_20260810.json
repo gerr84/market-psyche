@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-10",
+  "note": "neocloud utilization PROXY: price trend + fwd metrics (direct GPU util not public)",
+  "symbols": {
+    "CRWV": {
+      "symbol": "CRWV",
+      "price": 88.19,
+      "fPE": -53.76587,
+      "mktcap_B": 48.1,
+      "day_%": -2.735189,
+      "quote_ok": true,
+      "ret_21d_%": 1.08,
+      "ret_60d_%": -15.85,
+      "ret_250d_%": -30.01
+    },
+    "AKAM": {
+      "symbol": "AKAM",
+      "price": 117.65,
+      "fPE": 16.411325,
+      "mktcap_B": 16.9,
+      "day_%": 6.4320617,
+      "quote_ok": true,
+      "ret_21d_%": -14.65,
+      "ret_60d_%": -26.09,
+      "ret_250d_%": 56.73
+    },
+    "DOCN": {
+      "symbol": "DOCN",
+      "price": 129.73,
+      "fPE": 70.058426,
+      "mktcap_B": 15.2,
+      "day_%": 4.49456,
+      "quote_ok": true,
+      "ret_21d_%": -11.85,
+      "ret_60d_%": -20.27,
+      "ret_250d_%": 275.64
+    },
+    "NET": {
+      "symbol": "NET",
+      "price": 310.59,
+      "fPE": 185.93973,
+      "mktcap_B": 110.6,
+      "day_%": 3.43691,
+      "quote_ok": true,
+      "ret_21d_%": 8.87,
+      "ret_60d_%": 60.75,
+      "ret_250d_%": 46.76
+    },
+    "CLSK": {
+      "symbol": "CLSK",
+      "price": 11.59,
+      "fPE": -8.181157,
+      "mktcap_B": 3.0,
+      "day_%": -5.772358,
+      "quote_ok": true,
+      "ret_21d_%": -4.58,
+      "ret_60d_%": -8.69,
+      "ret_250d_%": 22.14
+    },
+    "PLTR": {
+      "symbol": "PLTR",
+      "price": 175.23,
+      "fPE": 75.89919,
+      "mktcap_B": 421.1,
+      "day_%": 1.871985,
+      "quote_ok": true,
+      "ret_21d_%": 33.3,
+      "ret_60d_%": 26.48,
+      "ret_250d_%": -8.0
+    }
+  }
+}
