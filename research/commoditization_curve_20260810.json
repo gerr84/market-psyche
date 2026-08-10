@@ -1,0 +1,53 @@
+{
+  "curve": [
+    [
+      "2023-03",
+      "GPT-4 launch (Appenzeller/a16z LLMflation ref)",
+      60.0
+    ],
+    [
+      "2024-05",
+      "GPT-4o ($7.50/M blended, ~half out) [Epoch]",
+      7.5
+    ],
+    [
+      "2024-12",
+      "DeepSeek-V3 $0.48/M (LMSys ELO ~GPT-4o) [Epoch]",
+      0.48
+    ],
+    [
+      "2025-02",
+      "Gemini 2.0 Flash $0.18/M (MMLU ~GPT-4) [Epoch]",
+      0.18
+    ],
+    [
+      "2026-01",
+      "DeepSeek-V4 $0.28/M out (proj, Medium 2026)",
+      0.28
+    ],
+    [
+      "2026-08",
+      "DeepSeek-V4-Flash-0731 via DeepInfra $0.20/M out [MorphLLM]",
+      0.2
+    ],
+    [
+      "2028-proj",
+      "Projection: commoditized frontier ~$0.10-0.30/M out",
+      0.15
+    ]
+  ],
+  "frontier_reasoning": [
+    [
+      "2026",
+      "o3/Claude Opus 4 / DeepSeek R2: $5-25/M out [2026 price war]",
+      15.0
+    ]
+  ],
+  "equi_decline_x": 300.0,
+  "cagr_fall_pct": 430.0,
+  "cheapest_vendor_0731": {
+    "provider": "DeepInfra Flash",
+    "in_per_m": 0.1,
+    "out_per_m": 0.2
+  }
+}
