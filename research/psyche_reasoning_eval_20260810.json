@@ -1,0 +1,32 @@
+[
+  {
+    "label": "euphoric",
+    "confidence": 1.0,
+    "coherence": 0.5114,
+    "divergence": 0.4886,
+    "regime": "OVERCONFIDENT (euphoria/FOMO proxy)",
+    "quality_score": 0.624546,
+    "reasoning_steps": 4
+  },
+  {
+    "label": "cautious",
+    "confidence": 0.2292,
+    "coherence": 0.8438,
+    "divergence": -0.6146,
+    "regime": "CAUTIOUS (fear/capitulation proxy)",
+    "quality_score": 0.5325,
+    "reasoning_steps": 4
+  },
+  {
+    "label": "mixed",
+    "confidence": 0.25,
+    "coherence": 0.6134,
+    "divergence": -0.3634,
+    "regime": "CAUTIOUS (fear/capitulation proxy)",
+    "quality_score": 0.515349,
+    "reasoning_steps": 4
+  },
+  {
+    "aggregate_divergence": -0.1631
+  }
+]
