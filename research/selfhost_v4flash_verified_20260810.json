@@ -1,0 +1,15 @@
+{
+  "verified_specs": {
+    "total_B": 284,
+    "active_B": 13,
+    "vram_gb": 175
+  },
+  "gpus": 2,
+  "capex": 44000,
+  "monthly_total": 2331.0,
+  "cost_per_m_out_at_200k": 1.3,
+  "api_cost_per_m_out": 0.2,
+  "api_cheaper_by_x": 0.2,
+  "crossover_vs_api_req_day": 1295235.0,
+  "owns_vs_rent_x_cheaper": 2.0
+}
