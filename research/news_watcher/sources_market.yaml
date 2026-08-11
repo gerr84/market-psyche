@@ -1,0 +1,73 @@
+# MARKET rotation / semis / cyber / software / Iran monitor
+# Tracks the AI-infra-hardware -> software/cybersecurity rotation + macro (Iran/oil/yen).
+sources:
+  - id: cnbc_market
+    name: CNBC Markets
+    type: rss
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+    credibility: 1.4
+  - id: marketwatch_mu
+    name: MarketWatch Micron
+    type: rss
+    url: https://www.marketwatch.com/tools/quotes/lookup.asp?siteid=mktw&q=MU&view=rss
+    credibility: 1.3
+  - id: seekingalpha_cyber
+    name: Seeking Alpha Cybersecurity
+    type: rss
+    url: https://seekingalpha.com/market-news/cybersecurity/rss
+    credibility: 1.2
+  - id: investing_cyber
+    name: Investors Cybersecurity
+    type: rss
+    url: https://www.investors.com/research/ibd-industry-themes/feed/
+    credibility: 1.3
+  - id: reuters_iran
+    name: Reuters Iran
+    type: rss
+    url: https://www.reuters.com/world/middle-east/rss
+    credibility: 1.5
+  - id: zhang_cyber
+    name: r/cybersecurity
+    type: reddit
+    url: https://www.reddit.com/r/cybersecurity/new/.rss
+    credibility: 1.0
+
+keywords:
+  rotation: 1.6
+  rotate: 1.4
+  semis: 1.3
+  semiconductor: 1.3
+  photonic: 1.4
+  memory: 1.4
+  HBM: 1.6
+  Micron: 1.5
+  MU: 1.3
+  TSMC: 1.5
+  cybersecurity: 1.7
+  cyber: 1.5
+  Fortinet: 1.6
+  FTNT: 1.5
+  Palo: 1.4
+  PANW: 1.4
+  CrowdStrike: 1.5
+  CRWD: 1.3
+  software: 1.3
+  IGV: 1.4
+  Iran: 1.6
+  oil: 1.3
+  yen: 1.5
+  Bessent: 1.4
+  CPI: 1.2
+  PPI: 1.2
+  earnings: 1.1
+
+source_weights:
+  cnbc_market: 1.4
+  marketwatch_mu: 1.3
+  seekingalpha_cyber: 1.2
+  investing_cyber: 1.3
+  reuters_iran: 1.5
+  zhang_cyber: 1.0
+
+min_score: 1.5
+lookback_hours: 168
